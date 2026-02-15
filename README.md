@@ -1,4 +1,4 @@
-<img width="1468" height="468" alt="Capture1" src="https://github.com/user-attachments/assets/4abbdc7f-4ee4-49a6-99d3-eed323836656" /># 🧠 Local RAG System using LlamaIndex + HuggingFace
+# 🧠 Local RAG System using LlamaIndex + HuggingFace
 
 A fully local Retrieval-Augmented Generation (RAG) system built using **LlamaIndex**, **HuggingFace Transformers**, and **Sentence Transformers**.
 
