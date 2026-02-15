@@ -10,6 +10,7 @@ This project allows you to:
 - Generate context-aware responses
 
 Everything runs locally — no OpenAI API required.
+
 ------------------------------------------------------------------
 
 ## About the company
